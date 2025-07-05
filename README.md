@@ -1,5 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Carlos Andrés Tamayo Benjumea</h1>
-<p align="center">🎓 Ingeniero de Sistemas | Especialista en Inteligencia Artificial | Docente Universitario | Educador STEM | Desarrollador Fullstack</p>
+<p align="center">🎓 Ingeniero de Sistemas | Especialista en Inteligencia Artificial | Estudiante de Maestría en Educación STEM | Docente Universitario | Educador STEM | Desarrollador Fullstack</p>
+
 
 ---
 

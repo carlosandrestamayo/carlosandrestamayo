@@ -53,7 +53,7 @@
 - 🤖 **AI for Everyone** – Andrew Ng
 - 📊 **Data Science with Python** – IBM
 - 🧪 **Python for Everybody** – University of Michigan  
-➡️ Ver portafolio completo de certificados → [github.com/carlostamayo/certificados](https://github.com/carlostamayo/certificados](https://github.com/carlosandrestamayo/certificados/blob/main/README.md)
+➡️ Ver portafolio completo de certificados → [github.com/carlostamayo/certificados](https://github.com/carlosandrestamayo/certificados/tree/main)
 Ver portafolio completo de certificados → [github.com/carlostamayo/certificados](https://github.com/carlostamayo/certificados)
 
 ---
